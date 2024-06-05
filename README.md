@@ -6,7 +6,7 @@
 <h3 align="left"> 📌About ME:</h3>
 <p align="left">
 
-  - 🔭 I’m student at [University Of Western Macedonia](https://www.uowm.gr/en/)
+- 🎓 I’m student at [University Of Western Macedonia](https://www.uowm.gr/en/)
 
 - 📫 How to reach me **sokratesgeo@gmail.com**
 
