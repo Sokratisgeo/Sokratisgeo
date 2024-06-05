@@ -3,6 +3,8 @@
 
 ![68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033352f3639332f3635362f6f726967696e616c2f6777796e6574682d62616c7563696f2d68656c6c6f2d776f726c642e6769663f3136313](https://github.com/Sokratisgeo/Sokratisgeo/assets/130971855/150fa4ed-1f6f-42ae-ba0c-7865392e9165)
 
+<h3 align="left"> 📌About ME:</h3>
+<p align="left">
 - 🔭 I’m student at [University Of Western Macedonia](https://www.uowm.gr/en/)
 
 - 📫 How to reach me **sokratesgeo@gmail.com**
